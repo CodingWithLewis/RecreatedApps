@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023025398548",
+    "project_id": "sleep-app-mrlfi4",
+    "storage_bucket": "sleep-app-mrlfi4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023025398548:android:a929bd3f6ceaf120d9f801",
+        "android_client_info": {
+          "package_name": "com.mycompany.sleepapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi7W0M0RDNAiQD-D5GETUAvvw99AXFIts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023025398548:android:31eccb108cc41d76d9f801",
+        "android_client_info": {
+          "package_name": "com.sleeplew.sleepapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi7W0M0RDNAiQD-D5GETUAvvw99AXFIts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

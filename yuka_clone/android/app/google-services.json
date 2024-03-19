@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640051667045",
+    "project_id": "yuka-clone-7w6i2x",
+    "storage_bucket": "yuka-clone-7w6i2x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640051667045:android:6ce3d615c8610b1d3a668c",
+        "android_client_info": {
+          "package_name": "com.lewka.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKR8nVLhIT_GIlvJ0bau5UnQdvpPv91w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640051667045:android:ed3a3210e619ea533a668c",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKR8nVLhIT_GIlvJ0bau5UnQdvpPv91w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

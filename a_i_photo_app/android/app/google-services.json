@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50168843149",
+    "project_id": "aiphotos-fc599",
+    "storage_bucket": "aiphotos-fc599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50168843149:android:750c487c8c004be916cbc4",
+        "android_client_info": {
+          "package_name": "com.mycompany.aiphotoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ7Y5lib544vxUa0l9i1yf3tEsg0yuJVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
